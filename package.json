@@ -1,0 +1,9 @@
+{
+  "name": "Text_extractor",
+  "version": "1.0.0",
+  "description": "Extracts text from an image",
+  "main": "index.js",
+  "author": "Anshuman Mohapatra <amohapatra2001@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
